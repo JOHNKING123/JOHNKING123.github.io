@@ -5,16 +5,16 @@ markdown: kramdown
 
 # 作者信息
 author: 
-  name: 李乾坤
-  email: qiankun.li@qq.com
+  name: 郑楚强
+  email: 1318692162@qq.com
   link: 
   weibo: 
-  github: http://qiankunli.github.io
+  github: http://johnking.github.io
 
 # 站点信息
-title: 李乾坤的博客 
-description: 李乾坤的博客
-url: http://qiankunli.github.io
+title: 郑楚强的博客 
+description: 郑楚强的博客
+url: http://johnking.github.io
 rss_url: 
 
 # gavatar头像及Favicon
@@ -29,7 +29,7 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: qiankunli
+  shortname: johnking
 
 # gitment
 gitment:
