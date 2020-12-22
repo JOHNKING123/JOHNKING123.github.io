@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://johnking.github.io](http://johnking.github.io "")
+地址：[http://JOHNKING123.github.io](http://JOHNKING123.github.io "")
 
 ### 安装说明
 
